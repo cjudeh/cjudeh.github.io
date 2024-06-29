@@ -46,6 +46,9 @@
     </script>
 </head>
 <body>
+	<script async src="https://cse.google.com/cse.js?cx=c5da6e966a64e4d8c">
+</script>
+<div class="gcse-search"></div>
     <noscript>It seems to us that you have your JavaScript disabled on your browser. JavaScript is required in order for the site to behave correctly.  Please enable JavaScript to use the site.</noscript>
     <div id="appContainer">
         <div id="header">
