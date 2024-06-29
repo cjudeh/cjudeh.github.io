@@ -81,7 +81,7 @@
                             <li><span class="sep"></span><a href="d/toc.htm?path=whats-new"><span>What's New</span></a><i></i></li>
                             <li><span class="sep"></span><a href="d/toc.htm?path=patient-education"><span>Patient Education</span></a><i></i></li>
                             <li class="firstnav"><a href="d/toc.htm"><span>Contents</span></a><i></i></li>
-							<li class="firstnav"><a href="UpToDate.htm"><span>Up To Date</span></a><i></i></li>
+							<li class="firstnav"><a href="index.html"><span>Up To Date</span></a><i></i></li>
                             <li class="firstnav"><a href="https://supa.ml" target="_blank" ><span>Trang chủ</span></a><i></i></li>
                         </ul>
                     </div>
